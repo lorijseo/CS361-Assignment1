@@ -1,1 +1,1 @@
-# psychic-octo-computing-machine
+# CS361 Assignment 1
